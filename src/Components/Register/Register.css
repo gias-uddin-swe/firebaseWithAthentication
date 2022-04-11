@@ -1,0 +1,14 @@
+.input-field{
+    width: 330px;
+    padding: 15px 35px;
+    margin-top:7px;
+}
+.register-btn{
+    width: 55%;
+    margin-top:10px;
+    background-color:rgb(237, 31, 65);
+    color: white;
+    font-weight: bold;
+    padding: 10px 25px;
+}
+
